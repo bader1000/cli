@@ -1,7 +1,4 @@
 {
-  "dependencies": {
-    "nyc": "^11.9.0"
-  },
   "devDependencies": {
     "tap": "^13.1.11"
   },
@@ -10,7 +7,7 @@
   },
   "peerDependencies": {
     "abbrev": "^1.1.1",
-    "handlebars": "4.0.11"
+    "handlebars": "4.7.7"
   },
   "name": "audit-omit",
   "version": "1.2.3"
